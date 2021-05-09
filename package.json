@@ -1,5 +1,5 @@
 {
-  "name": "license-missing",
+  "name": "@brettz9/license-missing",
   "version": "0.1.0",
   "description": "Just a test repo without a license in `package.json`.",
   "main": "index.js",
